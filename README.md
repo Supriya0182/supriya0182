@@ -1,7 +1,7 @@
+![Header](./github-header-image.png)
 
-# 💫 About Me:
 # Hello World!, I'm Supriya, a  Web Developer 👋🏼:
-<br>🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying computer science Engineering at Sarala Birla University<br>👨🏼‍💻 working as a web developer since 2024<br>, a passionate and driven aspiring web developer.<br>
+<br>🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying computer science Engineering at Sarala Birla University<br>👨🏼‍💻 working as a web developer since 2024<br> A passionate and driven aspiring web developer.<br>
 I'm on a journey to transform my ideas into reality through code and create innovative web solutions
 
 
